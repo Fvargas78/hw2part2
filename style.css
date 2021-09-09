@@ -20,6 +20,9 @@ h1, h2,h3 {
     margin-top: 3%;
     letter-spacing:5px;
   }
+h2{
+    color: yellow;
+}
 #HomeButton {
     background-color: #4169E1;
     border-radius: 12px;
